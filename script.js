@@ -56,7 +56,7 @@ function handleNoClick() {
 
 // ===== XỬ LÝ NÚT CÓ (QUAN TRỌNG) =====
 function handleYesClick() {
-    const url = "https://script.google.com/macros/s/AKfycbwyRyZ5A4aqxU_LlW4HstwqjTuFvNQQO50NKdsirKKt4FnTVsAhxJvGPAoMmhbmoyzV1w/exec";
+    const url = "https://script.google.com/macros/s/AKfycbygwDlmsimdfhXE2WrFIvbBe9pnW1peFdJMuG3PEqox8jB0yH6aw8naXxtDrY_-w4njmA/exec";
 
     console.log("Đang gửi dữ liệu...");
 
